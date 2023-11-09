@@ -2,7 +2,7 @@
 try
 {
 	// On se connecte à MySQL
-	$bdd = new PDO('mysql:host=localhost;dbname=weatherapp;charset=utf8', 'toms', 'pwd');
+	$bdd = new PDO('mysql:host=localhost;dbname=weatherapp;charset=utf8', 'toms', 'root');
 }
 catch(Exception $e)
 {
@@ -19,6 +19,6 @@ catch(Exception $e)
     <title>Document</title>
 </head>
 <body>
-    
+
 </body>
 </html>
