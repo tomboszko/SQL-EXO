@@ -1,2 +1,2 @@
-# PHP-EXO
-PHP exo to manage databases
+# SQL-EXO
+SQL exo to manage databases
