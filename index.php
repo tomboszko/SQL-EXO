@@ -1,3 +1,5 @@
+<!-- Weather App using PDO-->
+
 <?php
 // try to connect to the database
 try {
@@ -62,8 +64,8 @@ try {
     </form>
 </main>
 
-    <style>
-        
+<!--Not much style, so here it is: -->
+    <style>  
     body {
         font-family: 'Courier New', monospace;
         margin: 0;
